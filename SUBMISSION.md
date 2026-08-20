@@ -8,4 +8,4 @@
 
 Repository: https://github.com/albeenachattarki/community-tool-library-mvp
 Pull request: https://github.com/albeenachattarki/community-tool-library-mvp/pull/1
-Video: https://drive.google.com/file/d/PLACEHOLDER/view?usp=sharing
+Video: https://drive.google.com/file/d/17txZ5iHwq10NSL0NMYtc4CJ21oT9g7ac/view?usp=sharing
